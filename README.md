@@ -1,3 +1,8 @@
+1)Install apache server with php.
+2)Add this folder to the sever host folder (xamp: htdocs, wamp:www, lamp:var/www/html)
+3) Hit command npm install and npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
